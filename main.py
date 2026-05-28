@@ -24,3 +24,5 @@ for i in range(3):
 
 ativo: bool = True
 print(f"Estado ativo: {ativo}")
+
+print("Conclusão do programa:")
