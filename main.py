@@ -18,3 +18,6 @@ ano_nascimento = ano_atual - idade
 print(f"Provavelmente nasceste em {ano_nascimento}.")
 
 print("Obrigado por participares!")
+
+for i in range(3):
+    print(f"Iteração número {i + 1}")
