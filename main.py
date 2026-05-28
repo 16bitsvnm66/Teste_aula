@@ -5,3 +5,8 @@ print(f"Olá, {nome}!")
 idade: int = int(input("Qual é a sua idade? "))
 print(f"Tu tens {idade} anos...")
 
+if idade >= 18:
+    print("És maior de idade!")
+else:
+    print("És menor de idade!")
+
