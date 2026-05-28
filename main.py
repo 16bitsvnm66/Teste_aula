@@ -27,3 +27,4 @@ print(f"Estado ativo: {ativo}")
 
 print("Conclusão do programa:")
 print("Este programa recolhe dados do utilizador e processa informações básicas.")
+print("Foi um exercício simples de introdução ao Python.")
