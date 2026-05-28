@@ -10,3 +10,6 @@ if idade >= 18:
 else:
     print("És menor de idade!")
 
+cidade = input("Em que cidade vives? ")
+print(f"{nome} vive em {cidade}.")
+
