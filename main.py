@@ -20,6 +20,7 @@ print(f"Provavelmente nasceste em {ano_nascimento}.")
 print("Obrigado por participares!")
 
 for i in range(3):
+    print(f"Iteração número {i + 1}")
 
 ativo: bool = True
 print(f"Estado ativo: {ativo}")
