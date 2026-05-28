@@ -13,3 +13,7 @@ else:
 cidade = input("Em que cidade vives? ")
 print(f"{nome} vive em {cidade}.")
 
+ano_atual = 2026
+ano_nascimento = ano_atual - idade
+print(f"Provavelmente nasceste em {ano_nascimento}.")
+
