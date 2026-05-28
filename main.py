@@ -26,3 +26,4 @@ ativo: bool = True
 print(f"Estado ativo: {ativo}")
 
 print("Conclusão do programa:")
+print("Este programa recolhe dados do utilizador e processa informações básicas.")
